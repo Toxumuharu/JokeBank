@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E32E6642535F340006252FE /* Joke.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E32E6632535F340006252FE /* Joke.swift */; };
 		3E3FDA0625349A9800C38B0C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3FDA0525349A9800C38B0C /* AppDelegate.swift */; };
 		3E3FDA0825349A9800C38B0C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3FDA0725349A9800C38B0C /* SceneDelegate.swift */; };
 		3E3FDA0D25349A9800C38B0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E3FDA0B25349A9800C38B0C /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E32E6632535F340006252FE /* Joke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Joke.swift; sourceTree = "<group>"; };
 		3E3FDA0225349A9800C38B0C /* JokeBank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JokeBank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E3FDA0525349A9800C38B0C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3E3FDA0725349A9800C38B0C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				3E3FDA0725349A9800C38B0C /* SceneDelegate.swift */,
 				3E3FDA1C25349C9B00C38B0C /* JokeTableViewController.swift */,
 				3E3FDA1E2534A49500C38B0C /* JokeDefinitionViewController.swift */,
+				3E32E6632535F340006252FE /* Joke.swift */,
 				3E3FDA0B25349A9800C38B0C /* Main.storyboard */,
 				3E3FDA1125349A9E00C38B0C /* Assets.xcassets */,
 				3E3FDA1325349A9E00C38B0C /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			files = (
 				3E3FDA1D25349C9B00C38B0C /* JokeTableViewController.swift in Sources */,
 				3E3FDA1F2534A49500C38B0C /* JokeDefinitionViewController.swift in Sources */,
+				3E32E6642535F340006252FE /* Joke.swift in Sources */,
 				3E3FDA0625349A9800C38B0C /* AppDelegate.swift in Sources */,
 				3E3FDA1025349A9800C38B0C /* JokeBank.xcdatamodeld in Sources */,
 				3E3FDA0825349A9800C38B0C /* SceneDelegate.swift in Sources */,
